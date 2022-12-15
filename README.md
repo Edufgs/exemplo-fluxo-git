@@ -1,5 +1,7 @@
 Teste release
 
+Correção "hotfix"
+
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/55825182/203655095-5399bf9e-1a13-4336-afa2-32416447ef9d.png" width="300" height="300"> <!-- Link do logo do projeto--> 
 </div>
